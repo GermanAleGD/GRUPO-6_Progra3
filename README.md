@@ -12,7 +12,7 @@ La aplicación y la base de datos funcionarán en el mismo equipo. Realizaremos 
 Antes de las pruebas registraremos el modelo del procesador, la memoria, el almacenamiento y la compilación exacta de Windows del equipo utilizado. En GitHub guardaremos el código, las versiones, los scripts de la base de datos y las instrucciones de ejecución. Esto permitirá repetir las pruebas y documentar los cambios.
 
 
-Delimitación teórica
+## Delimitación teórica
 
 El presente proyecto se fundamenta teóricamente en el área de los sistemas de información aplicados al sector salud, específicamente en la gestión y organización de citas médicas. Un sistema de información puede entenderse como un conjunto de elementos relacionados que permiten recopilar, procesar, almacenar y proporcionar información para apoyar las actividades de una organización. En este contexto, Vitalis SV se plantea como una herramienta orientada a mejorar la administración de las citas y facilitar el acceso organizado a la información de pacientes y profesionales de la salud.
 
