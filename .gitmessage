@@ -1,0 +1,16 @@
+# <type>(<scope>): <description>
+#
+# Write in English, imperative mood, lower case, no period, max 72 chars.
+# Types: feat | fix | docs | test | build | ci | refactor | style | chore | perf
+# Scope is optional: citas, adr, ci, pom, docs...
+#
+# Body (optional): explain WHAT and WHY, not how. Wrap at 72 chars.
+#
+# Footer (optional): BREAKING CHANGE: <description> | Refs: #<issue>
+#
+# Examples:
+#   feat(citas): add in-memory appointment validation
+#   docs(adr): add ADR 0001 on appointment validation strategies
+#   ci: add GitHub Actions workflow to run Maven tests
+#
+# Spec: https://www.conventionalcommits.org
